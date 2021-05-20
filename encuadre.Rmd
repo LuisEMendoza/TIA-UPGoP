@@ -2,20 +2,16 @@
 title: "Encuadre"
 ---
 
-## Justificación
+## Objetivo de la Asignatura
 
-Los contenidos de la asignatura Cálculo Diferencial e Integral, son importantes para poder establecer los nexos necesarios y conceptuales para los futuros cursos de la Licenciatura. Es necesario además establecer los fundamentos y competencias necesarias para que el profesionista logre modelar, interpretar y solucionar situaciones de su vida laboral y social de una forma óptima.
-
-## Objetivo
-
-Que el alumno desarrolle las capacidades y habilidades necesarias para aplicar el cálculo, como una herramienta matemática, para solucionar problemas prácticos reales.
+El alumno  será capaz de emplear  programas informáticos que le permitan tomar decisiones en las areas de incidencia de la profesión.
 
 ## Contenido temático
 
-UNIDAD I. Funciones, límites y continuidad.
+UNIDAD I. Introducción a las tecnologías de lnformación
 
-UNIDAD II. Derivación.
+UNIDAD II.  Paquetes computacionales en uso para la Administración de Personal.
 
-UNIDAD III. Integración.
+UNIDAD III. Paquetes para la información sobre clientes actuales y potenciales.
 
-UNIDAD IV. Aplicaciones básicas del Cálculo.
+UNIDAD IV. Paquetes computacionales en uso para las funciones de  Comercialización.
