@@ -1,0 +1,11 @@
+---
+title: "Universidad Politécnica de Gómez Palacio"
+---
+
+![](images/logo.jpg)
+
+## __Licenciatura en Negocios Internacionales__
+
+## Asignatura
+
+### __Tecnologías de la Información Aplicadas a los Negocios__

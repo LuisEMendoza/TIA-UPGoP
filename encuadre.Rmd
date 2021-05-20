@@ -1,0 +1,21 @@
+---
+title: "Encuadre"
+---
+
+## Justificación
+
+Los contenidos de la asignatura Cálculo Diferencial e Integral, son importantes para poder establecer los nexos necesarios y conceptuales para los futuros cursos de la Licenciatura. Es necesario además establecer los fundamentos y competencias necesarias para que el profesionista logre modelar, interpretar y solucionar situaciones de su vida laboral y social de una forma óptima.
+
+## Objetivo
+
+Que el alumno desarrolle las capacidades y habilidades necesarias para aplicar el cálculo, como una herramienta matemática, para solucionar problemas prácticos reales.
+
+## Contenido temático
+
+UNIDAD I. Funciones, límites y continuidad.
+
+UNIDAD II. Derivación.
+
+UNIDAD III. Integración.
+
+UNIDAD IV. Aplicaciones básicas del Cálculo.

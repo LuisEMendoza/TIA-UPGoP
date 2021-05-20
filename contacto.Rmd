@@ -1,0 +1,21 @@
+---
+title: "Contacto"
+---
+
+![](images/logo.jpg)
+
+### Docente
+
+M. en E. Luis Enrique Mendoza Ruiz
+
+## Correo electrónico institucional
+
+lemendoza@upgop.edu.mx
+
+## Página personal en GitHub
+
+https://luisemendoza.github.io
+
+## Página de repositorios GitHub
+
+https://github.com/LuisEMendoza
