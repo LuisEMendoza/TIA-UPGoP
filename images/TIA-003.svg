@@ -111,8 +111,8 @@
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id6">
         <rect class="BoundingBox" stroke="none" fill="none" x="22399" y="1699" width="5204" height="3204"/>
-        <path fill="rgb(128,128,128)" stroke="none" d="M 27601,3300 C 27601,3581 27481,3857 27253,4101 27024,4344 26696,4546 26301,4687 25905,4827 25457,4901 25001,4901 24544,4901 24096,4827 23700,4687 23305,4546 22977,4344 22748,4101 22520,3857 22400,3581 22400,3301 22400,3020 22520,2744 22748,2500 22977,2257 23305,2055 23700,1914 24096,1774 24544,1700 25001,1700 25457,1700 25905,1774 26301,1914 26696,2055 27024,2257 27253,2500 27481,2744 27601,3020 27601,3300 L 27601,3300 Z"/>
-        <path fill="none" stroke="rgb(238,238,238)" d="M 27601,3300 C 27601,3581 27481,3857 27253,4101 27024,4344 26696,4546 26301,4687 25905,4827 25457,4901 25001,4901 24544,4901 24096,4827 23700,4687 23305,4546 22977,4344 22748,4101 22520,3857 22400,3581 22400,3301 22400,3020 22520,2744 22748,2500 22977,2257 23305,2055 23700,1914 24096,1774 24544,1700 25001,1700 25457,1700 25905,1774 26301,1914 26696,2055 27024,2257 27253,2500 27481,2744 27601,3020 27601,3300 L 27601,3300 Z"/>
+        <path fill="rgb(128,128,128)" stroke="none" d="M 27601,3300 C 27601,3581 27481,3857 27253,4101 27024,4344 26696,4546 26301,4687 25905,4827 25457,4901 25001,4901 24544,4901 24096,4827 23700,4687 23305,4546 22977,4344 22748,4101 22520,3857 22400,3581 22400,3301 22400,3020 22520,2744 22748,2500 22977,2257 23305,2055 23700,1914 24096,1774 24544,1700 25000,1700 25457,1700 25905,1774 26301,1914 26696,2055 27024,2257 27253,2500 27481,2744 27601,3020 27601,3300 L 27601,3300 Z"/>
+        <path fill="none" stroke="rgb(238,238,238)" d="M 27601,3300 C 27601,3581 27481,3857 27253,4101 27024,4344 26696,4546 26301,4687 25905,4827 25457,4901 25001,4901 24544,4901 24096,4827 23700,4687 23305,4546 22977,4344 22748,4101 22520,3857 22400,3581 22400,3301 22400,3020 22520,2744 22748,2500 22977,2257 23305,2055 23700,1914 24096,1774 24544,1700 25000,1700 25457,1700 25905,1774 26301,1914 26696,2055 27024,2257 27253,2500 27481,2744 27601,3020 27601,3300 L 27601,3300 Z"/>
         <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="23205" y="3521"><tspan fill="rgb(0,0,0)" stroke="none">Proveedores</tspan></tspan></tspan></text>
        </g>
       </g>
@@ -161,14 +161,14 @@
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id13">
-        <rect class="BoundingBox" stroke="none" fill="none" x="6460" y="2699" width="7390" height="8356"/>
-        <text class="TextShape" transform="rotate(-50 7158 10237)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="7158" y="10237"><tspan fill="rgb(0,0,0)" stroke="none">Sistemas</tspan></tspan><tspan class="TextPosition" y="6407"><tspan fill="rgb(0,0,0)" stroke="none">estratégicos</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="2743" y="7687" width="9502" height="1674"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="2993" y="8388"><tspan fill="rgb(0,0,0)" stroke="none">Sistemas estratégicos</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id14">
-        <rect class="BoundingBox" stroke="none" fill="none" x="16104" y="3307" width="7391" height="8355"/>
-        <text class="TextShape" transform="rotate(49.9 17010 3949)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="17010" y="3949"><tspan fill="rgb(0,0,0)" stroke="none">Sistemas</tspan></tspan><tspan class="TextPosition" y="7779"><tspan fill="rgb(0,0,0)" stroke="none">estratégicos</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="18099" y="7327" width="9502" height="1674"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="18349" y="8028"><tspan fill="rgb(0,0,0)" stroke="none">Sistemas estratégicos</tspan></tspan></tspan></text>
        </g>
       </g>
      </g>
