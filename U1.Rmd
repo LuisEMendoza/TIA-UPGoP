@@ -1,5 +1,8 @@
 ---
 title: "Introducción a las Tecnologías de la Información."
+output:
+  html_document:
+    toc: true
 ---
 
 ## Introducción
