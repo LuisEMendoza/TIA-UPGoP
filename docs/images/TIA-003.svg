@@ -141,8 +141,8 @@
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id10">
-        <rect class="BoundingBox" stroke="none" fill="none" x="10499" y="15100" width="9502" height="1674"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="10749" y="15801"><tspan fill="rgb(0,0,0)" stroke="none">Sistemas</tspan><tspan fill="rgb(0,0,0)" stroke="none">estratégicos</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="14800" y="15098" width="9502" height="1674"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="15050" y="15799"><tspan fill="rgb(0,0,0)" stroke="none">Sistemas estratégicos</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
